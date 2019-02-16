@@ -18,16 +18,6 @@ And yet, it's content that people crave.
 
 When it comes to using our words, spoken or written, it's a good idea to follow the "THINK" principle: Before you speak/publish, check to see if it's **T**rue, **H**elpful, **I**nspiring, **N**ecessary, and **K**ind. I can't remember exactly where I first heard that, but certainly good advice. My thoughts on this site are software-developer-centric, but I hope to stay aligned with these principles. Enjoy!
 
-## Blog Posts
+## Linking to Pages
 
-
-
-Here's my current list of "blog" posts.
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+You can link to pages either through direct markdown links or through using some Jekyll scripting in your pages. See my [Articles](Articles.md) page for details.
