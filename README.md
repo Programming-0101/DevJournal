@@ -18,7 +18,9 @@ And yet, it's content that people crave.
 
 When it comes to using our words, spoken or written, it's a good idea to follow the "THINK" principle: Before you speak/publish, check to see if it's **T**rue, **H**elpful, **I**nspiring, **N**ecessary, and **K**ind. I can't remember exactly where I first heard that, but certainly good advice. My thoughts on this site are software-developer-centric, but I hope to stay aligned with these principles. Enjoy!
 
-# Posts
+## Blog Posts
+
+
 
 Here's my current list of "blog" posts.
 
