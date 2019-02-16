@@ -1,6 +1,6 @@
 # Articles
 
-Here's my current list of articles.
+Here's my current list of articles. These are base off of {{site.baseurl }}.
 
 <ul>
   {% for page in site.pages %}
